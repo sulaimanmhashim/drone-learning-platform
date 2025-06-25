@@ -67,6 +67,7 @@ Each test validates the UI, logic, and interactions for the associated feature a
 
 ## ⚙️ Project Structure
 
+```
 src/
 ├── components/
 │ ├── Dashboard/
@@ -81,7 +82,7 @@ src/
 ├── routes/ # Protected and role-based routes
 ├── styles/ # Global CSS
 └── App.jsx
-
+```
 
 ---
 
