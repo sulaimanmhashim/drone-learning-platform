@@ -129,6 +129,8 @@ npm run dev
 # Run all test suites
 npm run test
 
+```
+
 ---
 
 ## 📄 License
