@@ -30,7 +30,7 @@ import ProtectedRoute from './routes/ProtectedRoute';
 import './styles/styles.css';
 
 // Profile
-import ViewProfile from './components/Profile/ViewProfile';
+import ViewProfile from './components/ViewProfile';
 
 // Reports
 import CoordinatorReport from './components/Reports/CoordinatorReport';
